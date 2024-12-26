@@ -195,6 +195,8 @@ A **curses**-based Python demo script (`periodic_table_demo.py`) is included to 
 python periodic_table_demo.py
 ```
 
+![Periodic Table Demo Screenshot](images/periodic_table_demo.jpeg) 
+
 ### Demo Features
 
 - **Interactive Navigation**:  
