@@ -53,7 +53,7 @@ Below is a list of the class methods available in `Elements`:
 
 6. **`Elements.mass(symbol: str, unit: str = "u") -> float`**  
    - Returns the atomic mass of the element in the requested mass unit (`"u"`, `"g/mol"`, etc.).  
-   - Internally stored as atomic mass units (u). 1 u ≈ 1 g/mol.  
+   - Internally stored as atomic mass units (u). 1 u = 1 g/mol.  
    - Raises `KeyError` if the unit is unrecognized or the symbol is invalid.
 
 7. **`Elements.vdw_radius(symbol: str, unit: str = "Ang") -> float`**  
