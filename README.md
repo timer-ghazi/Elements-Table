@@ -183,8 +183,6 @@ python elements_table.py
 
 This triggers the built-in `unittest.main()`, which executes a series of checks in `TestElements`. Feel free to expand test coverage or incorporate it into a continuous integration pipeline.
 
-Below is a **suggested addition** to the README describing our **curses**-based periodic table demo, which uses `elements_table.py` to fetch element data on-the-fly. Feel free to modify or relocate this text within your existing README as needed.
-
 ---
 
 ## Demo: Terminal-Based Periodic Table
